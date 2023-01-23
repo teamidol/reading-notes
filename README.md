@@ -1,4 +1,4 @@
-# reading-notes
+###### reading-notes
 My reading journal for Code Fellows
 
 My name is Laurence 
@@ -11,4 +11,4 @@ Reminders to stay in a growth mindset:
 + Reminder 2
 + Reminder 3
 
-Link to my github portfolio: [Link] (https//github.com/teamidol)
+Link to my github portfolio: [Link](https://teamidol.github.io/reading-notes/)
