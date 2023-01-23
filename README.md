@@ -3,7 +3,7 @@ My reading journal for Code Fellows
 
 My name is Laurence 
 
-Growth mindset, to me, means *Accepting thing could be up and down along the way.* 
+Growth mindset, to me, means *accepting things could be up and down along the way.* 
 
 Reminders to stay in a growth mindset:
 
