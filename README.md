@@ -1,5 +1,5 @@
-###### **reading-notes**
-My reading journal for Code Fellows
+### **reading-notes**
+#####**My reading journal for Code Fellows**
 
 My name is Laurence 
 
