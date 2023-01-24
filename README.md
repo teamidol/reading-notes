@@ -11,4 +11,4 @@ Reminders to stay in a growth mindset:
 + Expect Hurdles.
 + When finished, it will be **_sweet_**.
 
-Link to my github portfolio: [Link](https://teamidol.github.io/class1)
+Link to my github portfolio: [Link](teamidol.github.io/reading-notes/class1.md)
