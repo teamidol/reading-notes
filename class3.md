@@ -6,4 +6,4 @@ Command lines are great to to know when using a software. It provides an underst
 
 **Things I Want To Know More About**
 
-*Reference to this page.*
+[*Reference to this page.*](class3.md)
