@@ -1,14 +1,36 @@
-### **reading-notes**
-**My reading journal for Code Fellows**
+### **MY TIME IN CODE FELLOWS**
 
-My name is Laurence 
+I'm Laurence. I'm a beginner in coding.
 
-Growth mindset, to me, means *accepting things could be up and down along the way.* 
+**My Code Fellows Module Assignments**
 
-Reminders to stay in a growth mindset:
+**_Class 102_**
 
-+ There's a start to everything.
-+ Expect Hurdles.
-+ When finished, it will be **_sweet_**.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
 
-Link to my github portfolio: [Link](https://teamidol.github.io/reading-notes/)
+**_Class 201_**
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+
+
