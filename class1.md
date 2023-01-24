@@ -6,4 +6,4 @@
 * Characters are used to change *font styles*.
 * Markdown can be useful in *updating contents* in the webpage. Perhaps, keeping the assigned image space on the webpage.
 
-:smiley:
+:smiley:[Markdowns](class1.md)
