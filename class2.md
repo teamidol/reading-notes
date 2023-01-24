@@ -14,4 +14,4 @@ Directories can be reached by *commands*.
 - ls (list items in current directory)
 - cd.. (move back one level from current directory)
 
-[*Reference to this page.*](class3.md) 
+[*Reference to this page.*](class2.md) 
