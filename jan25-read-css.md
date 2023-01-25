@@ -8,4 +8,4 @@
 
 * *internal:*  Applied in HTML as a reference section for style and formatting.
 
-* *external:*  Referencing from external source. This is deemed best method and preferred by most coders. :smiley+1: 
+* *external:*  Referencing from external source. This is deemed best method and preferred by most coders. :+1: 
