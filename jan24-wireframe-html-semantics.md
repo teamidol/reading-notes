@@ -17,4 +17,4 @@
 :smiley: **Semantics**
 
 * Identifies component functions. Proper semantics can enhance user experience. 
-* There are differences in semantics between differenct programs.
+* There are differences in semantics between different programs.
