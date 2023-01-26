@@ -4,8 +4,12 @@
 
 **Some Things About JavaScript**
 
-:see_no_evil: * There are different types of inputs, which is useful for specific functions.
-:speak_no_evil: * JavaScript have interactive functions.
-:hear_no_evil: * JavaScript is more user-friendly than entering binaries to code.
+* There are different types of inputs, which is useful for specific functions.
+
+* JavaScript have interactive functions.
+
+* JavaScript is more user-friendly than entering binaries to code.
 
 *It would be nice to learn render output based on user input in textboxes.*
+
+:see_no_evil: :speak_no_evil: :hear_no_evil:
