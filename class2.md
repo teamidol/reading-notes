@@ -15,3 +15,5 @@ Directories can be reached by *commands*.
 - cd.. (move back one level from current directory)
 
 [*Reference to this page.*](class2.md) 
+
+**Things I Want To Know More About...**

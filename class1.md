@@ -7,3 +7,5 @@
 * Markdown can be useful in *updating contents* in the webpage. Perhaps, keeping the assigned image space on the webpage.
 
 👍  [Markdowns](class1.md)
+
+**Things I Want To Know More About...**
