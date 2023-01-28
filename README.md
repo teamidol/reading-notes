@@ -1,10 +1,10 @@
-### **MY READING NOTES IN CODE FELLOWS**
+# **READING NOTES**
 
-I'm Laurence. I'm a beginner in coding.
+I'm Laurence. I'm a beginner in coding.  This website is about my reading notes as a student in Code Fellows.
 
 **My Code Fellows Module Assignments**
 
-**_Class 102 Reading Notes_**
+## **_Code 102 - Intro to Software Development_** :running:
 
 1. [reading notes 102-1](reading notes 102-1.md)
 2. [reading notes 102-2](reading notes 102-2.md)
@@ -15,7 +15,7 @@ I'm Laurence. I'm a beginner in coding.
 7. [reading notes 102-7](reading notes 102-7.md)
 8. [reading notes 102-8](reading notes 102-8.md)
 
-**_Class 201 Reading Notes_**
+## **_Code 201 - Foundations of Software Development_** :smiley:
 
 1. [reading notes 201-1](reading notes 201-1.md)
 2. [reading notes 201-2](reading notes 201-2.md)
@@ -33,4 +33,13 @@ I'm Laurence. I'm a beginner in coding.
 14. [reading notes 201-14](reading notes 201-14.md)
 15. [reading notes 201-15](reading notes 201-15.md)
 
+## **_Code 301 - Intermediate Software Development_** :hear_no_evil:
+
+1.
+2.
+
+## **_Code 401 - Advanced Software Development_** :+1:
+
+1.
+2.
 
