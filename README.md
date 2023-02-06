@@ -32,6 +32,7 @@ I'm Laurence. I'm a beginner in coding.  This website is about my reading notes 
 13. [reading notes 201-13](201/reading-notes-201-13.md)
 14. [reading notes 201-14](201/reading-notes-201-14.md)
 15. [reading notes 201-15](201/reading-notes-201-15.md)
+16. [reading notes class-01](201/reading-notes-class-01.md)
 
 ## **_Code 301 - Intermediate Software Development_** :hear_no_evil:
 
