@@ -36,6 +36,6 @@ An *else if* condition statement is used to test a new condition if the conditio
 
 Three types of comparison operators are ===, !, and !==.
 
-&& are *logical AND*.  || are *logical OR*.
+"&&" are *logical AND*.  "||" are *logical OR*.
 
 ## **Things I Want to Know More About**
