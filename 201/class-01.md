@@ -1,9 +1,14 @@
 ## **CODE 201 CLASS 01 READING**
 
-*I send a request*
-*It goes thru a quest*
-*I'm sent back some packets*
-*There I hacked it*
+*I'd send a request*
+
+*It'd go thru a quest*
+
+*I'd be sent back some packets*
+
+*There, I hacked it*
+
+### Answers To Questions
 
 The HTML elements are parsed first into a browser, then followed by the CSS. Then usually the JavaScript.
 
