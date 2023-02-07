@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+     <head>
+        <title>Lab 01</title>
+    <!-- INTERNAL STYLE -->
+        <style>
+          h1  {
+            background-color: lightgrey;
+            color: blue;
+          }
+        </style>
+    </head>
+<body>
+    <!--  body is what will show  -->
+    <header>
+        
+    
+    </header>
+    <main>
+        <h1>This is my H1 for Lab 01</h1>
+        <!-- section, contents, paragraphs -->
+    
+    </main>
+    <p style="background-color: darkred; color: white">What is your name?</p>
+    <p style="background-color: darkgreen; color: lightgray">How old do you want to be?</p>
+    <p style="background-color: darkblue; color: darkgrey">Would it be nice to pretend that's how old you are?</p>
+    <p style="background-color: yellow; color: black">You feel better?</p>
+    <footer>Author: Laurence</footer>
+    <!-- script goes here, otherwise use "defer" afer "src=...." --> 
+    <script>
+     console.log ('hello world');
+
+     let questionOneResponse = prompt('What is your name?');
+        <!-- STRING CONCATENATION -->
+        alert('Hello there, ' + questionOneResponse + '!');
+     let questionTwoResponse = prompt('How old do you want to be?');
+        alert('Hmmm...' + questionTwoResponse + ' would be nice.')
+     let questionThreeResponse = prompt('Would it be nice to pretend that is how old you are?');
+        alert('Then ' + questionThreeResponse + ' it is!');
+     let questionFourResponse = prompt('You feel better?');
+        console.log(questionFourResponse)
+        questionFourResponse = questionFourResponse.toUpperCase()
+        alert(questionThreeResponse + ', ' + questionOneResponse + ' is ' + questionTwoResponse + '! ' + questionFourResponse + '! ' + questionFourResponse + '! ' + questionFourResponse + '......!');
+   </script>
+</body>
+</html>
