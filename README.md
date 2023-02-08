@@ -19,7 +19,7 @@ I'm Laurence. I'm a beginner in coding.  This website is about my reading notes 
 
 1. [reading notes 201-1](201/class-01.md)
 2. [reading notes 201-2](201/class-02.md)
-3. [reading notes 201-3](201/class-0316.md)
+3. [reading notes 201-3](201/class-03.md)
 4. [reading notes 201-4](201/class-04.md)
 5. [reading notes 201-5](201/class-05.md)
 6. [reading notes 201-6](201/class-06.md)
