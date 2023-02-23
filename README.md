@@ -30,8 +30,7 @@ I'm Laurence. I'm a beginner in coding.  This website is about my reading notes 
 11. [reading notes 201-11](201/class-11.md)
 12. [reading notes 201-12](201/class-12.md)
 13. [reading notes 201-13](201/class-13.md)
-14a. [reading notes 201-14](201/class-14a.md)
-14b. [reading notes 201-14a](201/class-14b.md)
+14. -a. [reading notes 201-14a](201/class-14a.md), -b. [reading notes 201-14b](201/class-14b.md)
 15. [reading notes 201-15](201/class-15.md)
 
 ## **_Code 301 - Intermediate Software Development_** :hear_no_evil:
