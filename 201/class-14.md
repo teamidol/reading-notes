@@ -3,8 +3,11 @@
 #### **WHAT GOOGLE LEARNED FROM ITS QUEST TO BUILD THE PERFECT TEAM**
 
 * The key factors that contribute to psychologically safe teams are
+
 1.) conversational turn-taking
-2.) psychological safety
+
+2.) empathy
+
 3.) non-micro-managing managers
 
 * I had some supervisors who decided that their subordinates are in no place to have a say and override their decisions. The atmosphere just weren't good, and unnecessarily stressful.
