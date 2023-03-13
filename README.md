@@ -35,8 +35,21 @@ I'm Laurence. I'm a beginner in coding.  This website is about my reading notes 
 
 ## **_Code 301 - Intermediate Software Development_** :hear_no_evil:
 
-1. [reading notes 301-01](301/reading-01.md)
-2.
+1. [reading notes 301-1](301/reading-01.md)
+2. [reading notes 301-2](301/reading-02.md)
+3. [reading notes 301-3](301/reading-03.md)
+4. [reading notes 301-4](301/reading-04.md)
+5. [reading notes 301-5](301/reading-05.md)
+6. [reading notes 301-6](301/reading-06.md)
+7. [reading notes 301-7](301/reading-07.md)
+8. [reading notes 301-8](301/reading-08.md)
+9. [reading notes 301-9](301/reading-09.md)
+10. [reading notes 301-10](301/reading-10.md)
+11. [reading notes 301-11](301/reading-11.md)
+12. [reading notes 301-12](301/reading-12.md)
+13. [reading notes 301-13](301/reading-13.md)
+14. [reading notes 301-14](301/reading-14.md)
+15. [reading notes 301-15](301/reading-15.md)
 
 ## **_Code 401 - Advanced Software Development_** :+1:
 
