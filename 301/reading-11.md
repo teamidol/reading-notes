@@ -4,23 +4,20 @@
 ## **NoSQL VS SQL READING**
 
 * Differences
-:smiley: SQL (a) vs NoSQL (b)
-1.a. called "relational database.
-1.b. called as non-relational database
-2.a. table-database
-2.b. document based, key-value pairs, graph databases or wide-column stores 
-3.a. predefined schema
-3.b. dynamic schema for unstructured data
-4.a. vertically scalable
-4.b. horizontally scalable by increasing the databases of servers to reduce load
+SQL (a) vs NoSQL (b)
+
+1. (a) called "relational database." (b) called as "non-relational database"
+2. (a) table-database. (b) document based, key-value pairs, graph databases or wide-column stores 
+3. (a) predefined schema. (b) dynamic schema for unstructured data
+4. (a) vertically scalable. (b) horizontally scalable by increasing the databases of servers to reduce load
 
 * SQL database is good for data that's needed to be organized.
 
-* SQL database is good for people's profile records. Perhaps, DMV would have profiles of people with the same data.
+* SQL database is good for people's profile records. Perhaps, DMV would have profiles of people with the repetitive data fields.
 
-* NoSQL database is good for items that are different from each other.  
+* NoSQL database is good for items that may have different fields from each other.  
 
-* NoSQL database may store data of totally different items with different descriptions. Perhaps, an online store sells displays, like a block and an action figure. The description of a block only has specifications for color, and size. But the description for the action figure would have more details such as "3D printed", from what movie, articulates in all joints, etc.
+* NoSQL database may store data of totally different items with different descriptions. Perhaps, an online store sells displays, like a block and an action figure. The description of a block only has specifications for color, and size. But the description for the action figure would have more details such as "3D printed", from what movie, "articulates in all joints," etc.
 
 * SQL is best for hierarchical data storage.
 
@@ -36,7 +33,7 @@
 
 * Schema is an structure relational outline.
 
-* NoSQL database aren't restricted to having to have fields and do not greatly rely on relations.
+* NoSQL database aren't restricted to having to have fields, and do not greatly rely on relations.
 
 * NoSQL have collections and documents that don't use the same schema.
 
