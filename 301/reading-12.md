@@ -22,7 +22,7 @@
 
 * A 410 code would be used if a resource used to exist but no longer does.
 
-* A *forbiddden* status means a client has no permission to access the resource.
+* A *forbidden* status means a client has no permission to access the resource.
 
 ## **BUILD A REST API WITH NODE.JS & MONGODB - QUICK**
 
@@ -42,6 +42,4 @@
 
 * Status code 200 means read request is successful. Status 201 means what was created was successful.
 
-
-
-:thinking: ##Things I want to know more about. 
+:thinking:  ##Things I want to know more about.
