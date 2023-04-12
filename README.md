@@ -53,6 +53,19 @@ I'm Laurence. I'm a beginner in coding.  This website is about my reading notes 
 
 ## **_Code 401 - Advanced Software Development_** :+1:
 
-1.
-2.
-
+1. [reading notes 401-1](401/reading-01.md)
+2. [reading notes 401-2](401/reading-02.md)
+3. [reading notes 401-3](401/reading-03.md)
+4. [reading notes 401-4](401/reading-04.md)
+5. [reading notes 401-5](401/reading-05.md)
+6. [reading notes 401-6](401/reading-06.md)
+7. [reading notes 401-7](401/reading-07.md)
+8. [reading notes 401-8](401/reading-08.md)
+9. [reading notes 401-9](401/reading-09.md)
+10. [reading notes 401-10](401/reading-10.md)
+11. [reading notes 401-11](401/reading-11.md)
+12. [reading notes 401-12](401/reading-12.md)
+13. [reading notes 401-13](401/reading-13.md)
+14. [reading notes 401-14](401/reading-14.md)
+15. [reading notes 401-15](401/reading-15.md)
+16. [prepwork](401/prepwork.md)
