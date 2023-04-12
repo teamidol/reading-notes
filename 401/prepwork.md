@@ -34,3 +34,9 @@ BASH is the linux command line.  It's a way to navigate using commands instead o
 * One of the important things to consider in deciding which data structure is best suited to solve a particular problem is considering its *BigO* efficiency.
 
 * To ensure that we'll avoid an infinite recursive call stack is to set a break point or limit.
+
+## **ENGINEERING READINGS**
+
+* I can bring unique significant contributions to an employer, as I found myself more creative than most people.
+
+* Three things I can do to unstuck myself when I get stuck on a code are (a.) debug, (b.) reasses, (c.) and research.
