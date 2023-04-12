@@ -1,5 +1,13 @@
 # **PREP WORK 401**
 
+## **EMOTIONAL INTELLIGENCE SELF-ASSESSMENT TOOL**
+
+I’m not worried if people like me or not.  Maybe I should care more. To me, I’m open to other people.  I’m not sure if I offend sensitive people.  I usually apologize right away in case I do. 
+
+## **ASSESSING BIAS**
+
+I’m aware of bias existing.  I believe in higher power that doesn’t like bias.  I think bias is a natural reaction and should be brought up for awareness.  People have excuses, and may blame failures on bias.  I never blamed my failures on bias, but perhaps it happened to me before.   
+
 ## **PROGRAM VERSIONS**
 ![computer versions](/401/img/computer-versions.png)
 
