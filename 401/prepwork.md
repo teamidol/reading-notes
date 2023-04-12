@@ -14,7 +14,7 @@ There are ways to access, filter, and modify contents in SQL tables.
 
 ## **BASH**
 
-Linux Tutorial Cheat Sheet:  https://ryanstutorials.net/linuxtutorial/cheatsheet.php
+BASH is the linux command line.  It's a way to navigate using commands instead of the visual way with clicking of the mouse.  Linux Tutorial Cheat Sheet:  https://ryanstutorials.net/linuxtutorial/cheatsheet.php
 
 ## **TYPING PRACTICE**
 
