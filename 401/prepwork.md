@@ -29,4 +29,8 @@ BASH is the linux command line.  It's a way to navigate using commands instead o
 ![Typing Practice 9a](/401/img/typing-09a.png)
 ![Typing Practice 9b](/401/img/typing-09b.png)
 
-## 
+## **DATA STRUCTURES AND ALGORITHMS**
+
+* One of the important things to consider in deciding which data structure is best suited to solve a particular problem is considering its *BigO* efficiency.
+
+* To ensure that we'll avoid an infinite recursive call stack is to set a break point or limit.
