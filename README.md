@@ -62,7 +62,7 @@ I'm Laurence. I'm a beginner in coding.  This website is about my reading notes 
 7. [reading notes 401-7](401/reading-07.md)
 8. [reading notes 401-8](401/reading-08.md)
 9. [reading notes 401-9](401/reading-09.md)
-10. (no reading-11)
+10. (no reading-10)
 11. [reading notes 401-11](401/reading-11.md)
 12. [reading notes 401-12](401/reading-12.md)
 13. [reading notes 401-13](401/reading-13.md)
